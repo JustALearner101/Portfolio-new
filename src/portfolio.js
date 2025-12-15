@@ -26,7 +26,7 @@ const greeting = {
     "Computer Science student at Bina Nusantara University who builds real-world AI and fullstack systems. from machine learning models to production-ready web applications."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1LuQ8Wfhi6a6gPjlcMmvFxgWak4Vd_EjJ/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1LZ6NTXd0lkZc9FBeS08K1dJEHCJPgDy4/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
