@@ -49,8 +49,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I Do",
-  subTitle:
-    "BUILDING REAL-WORLD AI AND FULLSTACK SYSTEMS",
+  subTitle: "BUILDING REAL-WORLD AI AND FULLSTACK SYSTEMS",
 
   skills: [
     emoji(
@@ -181,8 +180,7 @@ const workExperiences = {
       company: "Magna Solusi Indonesia",
       companylogo: require("./assets/images/magnaLogo.png"),
       date: "Feb 2025 – Aug 2025",
-      desc:
-        "Worked in a fast-paced consultancy environment delivering enterprise web applications for logistics and education sectors.",
+      desc: "Worked in a fast-paced consultancy environment delivering enterprise web applications for logistics and education sectors.",
       descBullets: [
         "Developed and deployed fullstack applications using Angular, Spring Framework, and ASP .NET Core.",
         "Collaborated across frontend, backend, and database layers to deliver production-ready systems.",
@@ -210,7 +208,8 @@ const bigProjects = {
     {
       image: require("./assets/images/noteitLogo.png"),
       projectName: "NoteIT",
-      projectDesc: "Website Heavily Inspired by NotebookLM from Google, A note-taking app powered by an LLM for efficient research assistance and for studying, Currently in Development",
+      projectDesc:
+        "Website Heavily Inspired by NotebookLM from Google, A note-taking app powered by an LLM for efficient research assistance and for studying, Currently in Development",
       footerLink: [
         //  you can add extra buttons here.
       ]
@@ -218,7 +217,8 @@ const bigProjects = {
     {
       image: require("./assets/images/Signfinity_Logo.png"),
       projectName: "Signfinity",
-      projectDesc: "Signfinity is an innovative app enhancing communication for deaf and mute individuals by enabling custom language creation. It features data collection, visual analytics, and supports various machine learning models like Random Forest, Decision Tree, K-Nearest Neighbors, SVM, Naive Bayes, and CNN, with upcoming Azure Machine Learning integrations.",
+      projectDesc:
+        "Signfinity is an innovative app enhancing communication for deaf and mute individuals by enabling custom language creation. It features data collection, visual analytics, and supports various machine learning models like Random Forest, Decision Tree, K-Nearest Neighbors, SVM, Naive Bayes, and CNN, with upcoming Azure Machine Learning integrations.",
       footerLink: [
         {
           name: "See Video Documentation",
@@ -381,7 +381,7 @@ const contactInfo = {
 
 const twitterDetails = {
   userName: "twitter", //Replace "twitter" with your twitter username without @
-  display: false// Set true to display this section, defaults to false
+  display: false // Set true to display this section, defaults to false
 };
 
 const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
